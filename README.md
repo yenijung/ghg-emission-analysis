@@ -1,4 +1,4 @@
-# UK Greenhouse Gas Emissions Analysis Project 
+# UK Greenhouse Gas Emissions Analysis Project 💨
 
 ## Overview
 This project analyzes local authority greenhouse gas (GHG) emissions across the UK using open government datasets. The analysis focuses on identifying patterns, trends, and regional variations in emissions from 2005 to 2022, aiming to provide actionable insights for sustainability efforts. The project employs data preprocessing, visualization, and exploratory data analysis techniques.
@@ -39,26 +39,6 @@ For more detailed feature descriptions, refer to the project notebook.
 - Identified significant variations in GHG emissions across UK regions and sectors.
 - Highlighted sectors with the highest contribution to emissions (e.g., transportation, residential).
 - Presented actionable recommendations for sustainable urban and regional planning.
-
----
-
-## How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd greenhouse_gas_analysis
-   ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook to explore the analysis:
-   ```bash
-   jupyter notebook data_science_programming_project_2308283.ipynb
-   ```
 
 ---
 
