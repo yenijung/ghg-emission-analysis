@@ -64,7 +64,7 @@ For more detailed feature descriptions, refer to the project notebook.
 
 ## Documentation
 For more detailed explanations of the methodology, results, and code, please refer to the project notebook:  
-- [Project Notebook](./data_science_programming_project_2308283.ipynb)
+- [Project Notebook](https://github.com/yenijung/ghganalysis/blob/e1864954db498fa94620d625b0f884f0ff2d3c2e/data_science_ghg.ipynb)
 
 ---
 
